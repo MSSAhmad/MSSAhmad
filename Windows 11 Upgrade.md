@@ -16,3 +16,4 @@ To create a Windows 11 bootable USB using Rufus:
 - Rufus has Win 11 built into it.
 - Then, choose Win 11 from the dropdown menu in Rufus.
 - Rufus will download Win 11 automatically for them.
+Note: If you follow the afformentioned steps properly then you will be able to install and upgrade you laptop operating system to Windows 11.
